@@ -1,0 +1,7 @@
+.git
+packer_cache
+output*-vbox
+output*-vmware
+*.box
+.kitchen
+Gemfile.lock
